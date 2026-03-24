@@ -1,6 +1,6 @@
 # Bio-Sparse Vision AI 🧠
 
-An ultra-fast Neural Network engine for autonomous systems, developed by **Mustafa Al-Tamimi**.
+An ultra-fast Neural Network engine for autonomous systems, developed by **karar salooo**.
 
 ### Features:
 - **High Performance**: Optimized for mobile processors.
